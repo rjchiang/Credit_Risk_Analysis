@@ -4,25 +4,23 @@
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, different techniques will be employed to train and evaluate models with unbalanced classes. 
 
 ## Results
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all 
-six machine learning models (15 pt)
 
-[Naive Random Oversampling]
+!['Naive Random Oversampling.PNG'](./Naive%20Random%20Oversampling.png)
 * Balanced accuracy is 0.65; average precision and recall scores are 0.99 and 0.61, respectively.
 
-[SMOTE Oversampling]
+!['SMOTE Oversampling.PNG'](./SMOTE%20Oversampling.png)
 * Balanced accuracy is 0.66; average precision and recall scores are 0.99 and 0.69, respectively. 
 
-[Undersampling]
+!['Undersampling.PNG'](./Undersampling.png)
 * Balanced accuracy is 0.55; average precision and recall scores are 0.99 and 0.41, respectively.
 
-[Combination]
+!['Combination.PNG'](./Combination.png)
 * Balanced accuracy is 0.64; average precision and recall scores are 0.99 and 0.57, respectively.
 
-[Balanced Random Forest Classifier]
+!['Balanced Random Forest Classifier.PNG'](./Balanced%20Random%20Forest%20Classifier.png)
 * Balanced accuracy is 1.00; weighted average precision and recall scores are 1.00 and 1.00, respectively.
 
-[Easy Ensemble AdaBoost Classifier]
+!['Easy Ensemble AdaBoost Classifier.PNG'](./Easy%20Ensemble%20AdaBoost%20Classifier.png)
 * Balanced accuracy is 0.93; average/total precision and recall scores are 0.99 and 0.94, respectively.
 
 ## Summary
